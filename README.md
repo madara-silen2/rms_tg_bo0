@@ -1,1 +1,1 @@
-# rms_tg_bo0
+скрипт создарн для канала котомаоцоки(https://t.me/kotomatcoaki)
